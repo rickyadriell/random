@@ -6,4 +6,4 @@ List of random small project that I do.
 
 [Getting started with microservices](https://github.com/rickyadriell/getting-started-with-microservices) - Project to undestand microservices using [Node.js](https://nodejs.org/en), [Docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), [RabbitMQ](https://www.rabbitmq.com/), and [more](https://github.com/rickyadriell/getting-started-with-microservices/blob/main/resources/my-overview.md). 
 
-[Calculator with steroids](git@github.com:rickyadriell/calculator-on-steroids.git) - Project to understand CI/CD using [GitHub Actions](https://docs.github.com/en/actions), [Postman](https://www.postman.com/), and [Go](https://go.dev/)
+[Calculator with steroids](https://github.com/rickyadriell/calculator-on-steroids) - Project to understand CI/CD using [GitHub Actions](https://docs.github.com/en/actions), [Postman](https://www.postman.com/), and [Go](https://go.dev/)
